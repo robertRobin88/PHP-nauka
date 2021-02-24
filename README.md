@@ -1,1 +1,1 @@
-"# PHP-nauka" 
+"# Nauka GIT, PHP + JSON" 
