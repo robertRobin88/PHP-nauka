@@ -1,0 +1,24 @@
+{
+    "klasa1": [
+        {
+        "imie" : "Adam",
+        "ocena" : "4.5"
+    },
+    {
+        "imie" : "Agata",
+        "ocena" : "6"
+    },
+    {
+        "imie" : "Wiesiek",
+        "ocena" : "4.5"
+    }
+],
+    "Klasa1b" : [{
+        "imie" : "Roman",
+        "ocena" : "4.5"
+    }],
+    "Klasa3" : [{
+        "imie" : "Robert",
+        "ocena" : "6"
+    }]
+}
