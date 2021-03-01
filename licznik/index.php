@@ -1,6 +1,5 @@
 <?php
 header('Content-type: text/plain');
-echo "LICZNIK \n";
 function licznik() {
     $filename = "licznik.txt";
     if(!is_file($filename)) {
